@@ -1,0 +1,12 @@
+p{
+  color: aliceblue;
+  border: dimgrey;
+  padding: 5px;
+}
+body{
+  background-color: rgb(15, 129, 139);
+}
+h1{
+  text-align: center;
+  border: mediumorchid;
+}
